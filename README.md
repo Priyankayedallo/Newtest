@@ -1,4 +1,4 @@
-# Welcome to my Priyanka's Website.
+# Welcome to Priyanka's Website.
 Below are my hobbies:
 
 1. Travelling.
